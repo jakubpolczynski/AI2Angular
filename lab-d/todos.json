@@ -1,18 +1,25 @@
 {
   "todos": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Hello World",
       "deadline": "1900-01-01",
       "completed": false,
       "archived": false
     },
     {
-      "id": 2,
-      "title": "Hello Again World",
+      "id": "2",
+      "title": "Hi!2",
+      "deadline": "2000-02-01",
+      "completed": "true",
+      "archived": "true"
+    },
+    {
+      "id": "3",
+      "title": "Hi!",
       "deadline": "2000-01-01",
-      "completed": false,
-      "archived": false
+      "completed": "false",
+      "archived": "true"
     }
   ]
 }
